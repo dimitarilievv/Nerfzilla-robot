@@ -4,7 +4,9 @@ Nerfzilla is an autonomous face-tracking robot built using a Raspberry Pi and Op
 
 ---
 ### Author
+
 This project was developed by Dimitar Ilievand Damjan Karadakoski as part of an educational initiative.
+
 ---
 
 ## 🎯 Features
